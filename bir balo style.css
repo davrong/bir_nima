@@ -1,0 +1,10 @@
+div{
+    color: black ;font-size: 20px;border:white;
+    margin: 10px; 20px; 30px;40px;
+}
+pre{
+    background-color: red;background-size: auto;
+}
+button{ background-color:aquamarine ;  color: white;}
+body{background-color: black;}
+pre{background-position: center;}
